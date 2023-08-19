@@ -19,7 +19,7 @@ ___
 
 ```
 chmod +x wordprowler.py
-./wordprowler.py
+./wordprowler.py <url>
 ```
 
 ___
@@ -28,7 +28,7 @@ ___
 ```
  - [ ] add a capability to spider discovered urls
  - [ ] add arguments to output words, urls, or both to a file
- - [ ] add argument to set parameters for the spider, to include a scope option
+ - [X] add argument to set parameters for the spider, to include a scope option
  - [ ] add a feature to compare words crawled to a wordlist and only keep the ones not in the wordlist
 
 ```
