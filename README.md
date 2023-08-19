@@ -1,4 +1,4 @@
-# Wordprowler 
+# Wordprowler V1.0.2
 
 Wordprowler is a word scraping tool that can pull unique words and urls from webpages loaded via javascript.
 
