@@ -1,3 +1,2 @@
 asyncio
-requests
-playwright
+pytest-playwright
